@@ -1,0 +1,19 @@
+{
+  "db": "flickr_london.sqlite",
+  "start": "2005-01-01",
+  "end": "2015-12-31",
+  "label": "2005_2015_pf",
+  "min_tags": 5,
+  "z_population": "mapped",
+  "dedup_users": false,
+  "no_plot": true,
+  "buffer_mode": "bbox",
+  "types": "paper8",
+  "cc_only": false,
+  "half": "all",
+  "photos_used": 145127,
+  "segments_with_tags": 148530,
+  "mapped": 61810,
+  "mean_tags_per_segment": 15.205460176395341,
+  "assignments": 1429850
+}

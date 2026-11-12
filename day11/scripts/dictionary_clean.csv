@@ -1,0 +1,449 @@
+term,code,main_category,sub_category,language
+acoustic,400,Music,Music,en
+acustico,400,Music,Music,es
+ac�stico,400,Music,Music,es
+aeropuerto,103,Motorized transport,Motorized transport - Air,es
+agua,201,Nature,Nature - Elements - Rain&Water,es
+air,103,Motorized transport,Motorized transport - Air,en
+aire,103,Motorized transport,Motorized transport - Air,es
+airplane,103,Motorized transport,Motorized transport - Air,en
+airport,103,Motorized transport,Motorized transport - Air,en
+alarido,301,Human,Human - Speaking,es
+alarm,601,Mechanical,Mechanical - Signaling,en
+aliento,301,Human,Human - Speaking,es
+animal,202,Nature,Nature - Vegetation&Animals,en
+animales,202,Nature,Nature - Vegetation&Animals,es
+animals,202,Nature,Nature - Vegetation&Animals,en
+aplaudir,400,Music,Music,es
+aplauso,400,Music,Music,es
+aplausos,400,Music,Music,es
+applause,400,Music,Music,en
+arboles,202,Nature,Nature - Vegetation&Animals,es
+�rboles,202,Nature,Nature - Vegetation&Animals,es
+arpeggio,400,Music,Music,en
+arpegio,400,Music,Music,es
+ascensor,501,Indoor,Indoor - Generic Indoor,es
+atmosfera,202,Nature,Nature - Vegetation&Animals,es
+atm�sfera,202,Nature,Nature - Vegetation&Animals,es
+atmosphere,202,Nature,Nature - Vegetation&Animals,en
+audience,400,Music,Music,en
+audio,400,Music,Music,en
+aullando,202,Nature,Nature - Vegetation&Animals,es
+aullido,202,Nature,Nature - Vegetation&Animals,es
+autobus,101,Motorized transport,Motorized transport - Road,es
+autob�s,101,Motorized transport,Motorized transport - Road,es
+avion,103,Motorized transport,Motorized transport - Air,es
+avi�n,103,Motorized transport,Motorized transport - Air,es
+baby,302,Human,Human - Speaking Children,en
+baile,400,Music,Music,es
+bajo,400,Music,Music,es
+ba�o,501,Indoor,Indoor - Generic Indoor,es
+bark,202,Nature,Nature - Vegetation&Animals,en
+bass,400,Music,Music,en
+bateria,400,Music,Music,es
+bater�a,400,Music,Music,es
+bathroom,501,Indoor,Indoor - Generic Indoor,en
+beach,201,Nature,Nature - Elements - Rain&Water,en
+beat,400,Music,Music,en
+bebe,302,Human,Human - Speaking Children,es
+beb�,302,Human,Human - Speaking Children,es
+beep,101,Motorized transport,Motorized transport - Road,en
+bell,601,Mechanical,Mechanical - Signaling,en
+bells,601,Mechanical,Mechanical - Signaling,en
+bici,101,Motorized transport,Motorized transport - Road,es
+bike,101,Motorized transport,Motorized transport - Road,en
+bip,101,Motorized transport,Motorized transport - Road,es
+bird,202,Nature,Nature - Vegetation&Animals,en
+birds,202,Nature,Nature - Vegetation&Animals,en
+birdsong,202,Nature,Nature - Vegetation&Animals,en
+bosque,202,Nature,Nature - Vegetation&Animals,es
+botella,501,Indoor,Indoor - Generic Indoor,es
+bottle,501,Indoor,Indoor - Generic Indoor,en
+breakbeat,400,Music,Music,en
+breath,301,Human,Human - Speaking,en
+breathing,301,Human,Human - Speaking,en
+bus,101,Motorized transport,Motorized transport - Road,en
+calle,303,Human,Human - Walking,es
+caminar,303,Human,Human - Walking,es
+camion,101,Motorized transport,Motorized transport - Road,es
+cami�n,101,Motorized transport,Motorized transport - Road,es
+campana,601,Mechanical,Mechanical - Signaling,es
+campanas,601,Mechanical,Mechanical - Signaling,es
+campanilla,601,Mechanical,Mechanical - Signaling,es
+campanillas,601,Mechanical,Mechanical - Signaling,es
+campo,202,Nature,Nature - Vegetation&Animals,es
+cancion,400,Music,Music,es
+canci�n,400,Music,Music,es
+cantar,400,Music,Music,es
+canto,400,Music,Music,es
+canto de ave,202,Nature,Nature - Vegetation&Animals,es
+car,101,Motorized transport,Motorized transport - Road,en
+carillon,601,Mechanical,Mechanical - Signaling,en
+carill�n,601,Mechanical,Mechanical - Signaling,es
+carillones,601,Mechanical,Mechanical - Signaling,es
+carill�nes,601,Mechanical,Mechanical - Signaling,es
+carrera,101,Motorized transport,Motorized transport - Road,es
+carretera,101,Motorized transport,Motorized transport - Road,es
+carril,102,Motorized transport,Motorized transport - Rail,es
+cars,101,Motorized transport,Motorized transport - Road,en
+cat,202,Nature,Nature - Vegetation&Animals,en
+cello,400,Music,Music,en
+charla,301,Human,Human - Speaking,es
+chatter,301,Human,Human - Speaking,en
+child,302,Human,Human - Speaking Children,en
+children,302,Human,Human - Speaking Children,en
+chillido,301,Human,Human - Speaking,es
+chime,601,Mechanical,Mechanical - Signaling,en
+chimes,601,Mechanical,Mechanical - Signaling,en
+chirp,202,Nature,Nature - Vegetation&Animals,en
+choir,301,Human,Human - Speaking,en
+choque,602,Mechanical,Mechanical - Construction,es
+chordophone,400,Music,Music,en
+church,502,Indoor,Indoor - Church,en
+cimbalo,400,Music,Music,es
+c�mbalo,400,Music,Music,es
+cimbalos,400,Music,Music,es
+c�mbalos,400,Music,Music,es
+clang,600,Mechanical,Mechanical - Industrial,en
+clap,400,Music,Music,en
+clapping,400,Music,Music,en
+clarinet,400,Music,Music,en
+clarinete,400,Music,Music,es
+clock,601,Mechanical,Mechanical - Signaling,en
+club,400,Music,Music,en
+coche,101,Motorized transport,Motorized transport - Road,es
+coches,101,Motorized transport,Motorized transport - Road,es
+cocina,501,Indoor,Indoor - Generic Indoor,es
+cocina,501,Indoor,Indoor - Generic Indoor,es
+comer,202,Nature,Nature - Vegetation&Animals,es
+comida,202,Nature,Nature - Vegetation&Animals,es
+computer,503,Indoor,Indoor - Work and office,en
+construccion,600,Mechanical,Mechanical - Industrial,es
+construcci�n,600,Mechanical,Mechanical - Industrial,es
+construction,600,Mechanical,Mechanical - Industrial,en
+conversacion,301,Human,Human - Speaking,es
+conversaci�n,301,Human,Human - Speaking,es
+conversation,301,Human,Human - Speaking,en
+cooking,501,Indoor,Indoor - Generic Indoor,en
+cordofono,400,Music,Music,es
+cord�fono,400,Music,Music,es
+coro,400,Music,Music,es
+correr,303,Human,Human - Walking,es
+cough,301,Human,Human - Speaking,en
+coughing,301,Human,Human - Speaking,en
+countryside,202,Nature,Nature - Vegetation&Animals,en
+crash,602,Mechanical,Mechanical - Construction,en
+crickets,202,Nature,Nature - Vegetation&Animals,en
+crowd,301,Human,Human - Speaking,en
+cry,301,Human,Human - Speaking,en
+cymbal,400,Music,Music,en
+cymbals,400,Music,Music,en
+dance,400,Music,Music,en
+despertador,602,Mechanical,Mechanical - Construction,es
+discurso,301,Human,Human - Speaking,es
+dj,400,Music,Music,en
+dog,202,Nature,Nature - Vegetation&Animals,en
+door,501,Indoor,Indoor - Generic Indoor,en
+doors,501,Indoor,Indoor - Generic Indoor,en
+drill,602,Mechanical,Mechanical - Construction,en
+drilling,602,Mechanical,Mechanical - Construction,en
+drip,201,Nature,Nature - Elements - Rain&Water,en
+dripping,201,Nature,Nature - Elements - Rain&Water,en
+drum,400,Music,Music,en
+drums,400,Music,Music,en
+drumset,400,Music,Music,en
+dubstep,400,Music,Music,en
+ducha,501,Indoor,Indoor - Generic Indoor,es
+eating,202,Nature,Nature - Vegetation&Animals,en
+elevator,501,Indoor,Indoor - Generic Indoor,en
+engine,101,Motorized transport,Motorized transport - Road,en
+enjuagar,501,Indoor,Indoor - Generic Indoor,es
+escuela,302,Human,Human - Speaking Children,es
+explosion,602,Mechanical,Mechanical - Construction,en
+explosi�n,602,Mechanical,Mechanical - Construction,es
+fabrica,600,Mechanical,Mechanical - Industrial,es
+f�brica,600,Mechanical,Mechanical - Industrial,es
+factory,600,Mechanical,Mechanical - Industrial,en
+fallo tecnico,503,Indoor,Indoor - Work and office,es
+fallo t�cnico,503,Indoor,Indoor - Work and office,es
+farm,202,Nature,Nature - Vegetation&Animals,en
+fart,301,Human,Human - Speaking,en
+fight,301,Human,Human - Speaking,en
+fire,602,Mechanical,Mechanical - Construction,en
+fireworks,602,Mechanical,Mechanical - Construction,en
+flauta,400,Music,Music,es
+flush,501,Indoor,Indoor - Generic Indoor,en
+flute,400,Music,Music,en
+footstep,303,Human,Human - Walking,en
+footsteps,303,Human,Human - Walking,en
+forest,202,Nature,Nature - Vegetation&Animals,en
+fountain,201,Nature,Nature - Elements - Rain&Water,en
+frog,202,Nature,Nature - Vegetation&Animals,en
+frogs,202,Nature,Nature - Vegetation&Animals,en
+fuego,602,Mechanical,Mechanical - Construction,es
+fuente,201,Nature,Nature - Elements - Rain&Water,es
+game,501,Indoor,Indoor - Generic Indoor,en
+gato,202,Nature,Nature - Vegetation&Animals,es
+gente,303,Human,Human - Walking,es
+glass,501,Indoor,Indoor - Generic Indoor,en
+glitch,503,Indoor,Indoor - Work and office,en
+goteo,201,Nature,Nature - Elements - Rain&Water,es
+grabacion,401,Music,Music - Radio,es
+grabaci�n,401,Music,Music - Radio,es
+granja,202,Nature,Nature - Vegetation&Animals,es
+grillos,202,Nature,Nature - Vegetation&Animals,es
+gritar,301,Human,Human - Speaking,es
+grito,301,Human,Human - Speaking,es
+group,400,Music,Music,en
+growl,202,Nature,Nature - Vegetation&Animals,en
+gru�ido,202,Nature,Nature - Vegetation&Animals,es
+grupo,301,Human,Human - Speaking,es
+grupo musical,400,Music,Music,es
+guitar,400,Music,Music,en
+guitarra,400,Music,Music,es
+habla,301,Human,Human - Speaking,es
+hablado,301,Human,Human - Speaking,es
+hablar,301,Human,Human - Speaking,es
+hammer,602,Mechanical,Mechanical - Construction,en
+hammering,602,Mechanical,Mechanical - Construction,en
+helicopter,103,Motorized transport,Motorized transport - Air,en
+helicoptero,103,Motorized transport,Motorized transport - Air,es
+helic�ptero,103,Motorized transport,Motorized transport - Air,es
+herramientas,600,Mechanical,Mechanical - Industrial,es
+hiphop,400,Music,Music,en
+hip-hop,400,Music,Music,en
+hojas,202,Nature,Nature - Vegetation&Animals,es
+howl,202,Nature,Nature - Vegetation&Animals,en
+howling,202,Nature,Nature - Vegetation&Animals,en
+human,303,Human,Human - Walking,en
+humano,303,Human,Human - Walking,es
+iglesia,502,Indoor,Indoor - Church,es
+impact,602,Mechanical,Mechanical - Construction,en
+impacto,602,Mechanical,Mechanical - Construction,es
+industrial,600,Mechanical,Mechanical - Industrial,en
+instrument,400,Music,Music,en
+instrumental,400,Music,Music,en
+instrumento,400,Music,Music,es
+jackhammer,602,Mechanical,Mechanical - Construction,en
+jazz,400,Music,Music,en
+jingle,601,Mechanical,Mechanical - Signaling,en
+juego,501,Indoor,Indoor - Generic Indoor,es
+keyboard,400,Music,Music,en
+kid,302,Human,Human - Speaking Children,en
+kids,302,Human,Human - Speaking Children,en
+kitchen,302,Human,Human - Speaking Children,en
+knock,501,Indoor,Indoor - Generic Indoor,en
+ladrido,202,Nature,Nature - Vegetation&Animals,es
+laugh,302,Human,Human - Speaking Children,en
+laughing,302,Human,Human - Speaking Children,en
+laughter,302,Human,Human - Speaking Children,en
+leaves,202,Nature,Nature - Vegetation&Animals,en
+lightning,201,Nature,Nature - Elements - Rain&Water,en
+liquid,201,Nature,Nature - Elements - Rain&Water,en
+liquido,201,Nature,Nature - Elements - Rain&Water,es
+l�quido,201,Nature,Nature - Elements - Rain&Water,es
+llorar,301,Human,Human - Speaking,es
+lluvia,201,Nature,Nature - Elements - Rain&Water,es
+machine,600,Mechanical,Mechanical - Industrial,en
+machinery,600,Mechanical,Mechanical - Industrial,en
+madera,202,Nature,Nature - Vegetation&Animals,es
+maquina,600,Mechanical,Mechanical - Industrial,es
+m�quina,600,Mechanical,Mechanical - Industrial,es
+maquinaria,600,Mechanical,Mechanical - Industrial,es
+mar,201,Nature,Nature - Elements - Rain&Water,es
+martilleo,602,Mechanical,Mechanical - Construction,es
+martillo,602,Mechanical,Mechanical - Construction,es
+martillo neum�tico,602,Mechanical,Mechanical - Construction,es
+mecanico,600,Mechanical,Mechanical - Industrial,es
+mec�nico,600,Mechanical,Mechanical - Industrial,es
+mechanical,600,Mechanical,Mechanical - Industrial,en
+melodia,400,Music,Music,es
+melodic,400,Music,Music,en
+melodico,400,Music,Music,es
+mel�dico,400,Music,Music,es
+melody,400,Music,Music,en
+metro,102,Motorized transport,Motorized transport - Rail,en
+microfono,400,Music,Music,es
+micr�fono,400,Music,Music,es
+microphone,400,Music,Music,en
+motor,101,Motorized transport,Motorized transport - Road,en
+multitud,301,Human,Human - Speaking,es
+music,400,Music,Music,en
+musica,400,Music,Music,es
+m�sica,400,Music,Music,es
+musical,400,Music,Music,en
+naturaleza,202,Nature,Nature - Vegetation&Animals,es
+nature,202,Nature,Nature - Vegetation&Animals,en
+ni�o,302,Human,Human - Speaking Children,es
+ni�os,302,Human,Human - Speaking Children,es
+ocean,201,Nature,Nature - Elements - Rain&Water,en
+oceano,201,Nature,Nature - Elements - Rain&Water,es
+oc�ano,201,Nature,Nature - Elements - Rain&Water,es
+office,501,Indoor,Indoor - Generic Indoor,en
+oficina,501,Indoor,Indoor - Generic Indoor,es
+olas,202,Nature,Nature - Vegetation&Animals,es
+orchestra,400,Music,Music,en
+orchestral,400,Music,Music,en
+ordenador,503,Indoor,Indoor - Work and office,es
+organ,502,Indoor,Indoor - Church,en
+organo,502,Indoor,Indoor - Church,es
+�rgano,502,Indoor,Indoor - Church,es
+orilla,201,Nature,Nature - Elements - Rain&Water,es
+orquesta,400,Music,Music,es
+orquestral,400,Music,Music,es
+pajaro,202,Nature,Nature - Vegetation&Animals,es
+pajaros,202,Nature,Nature - Vegetation&Animals,es
+palmada,400,Music,Music,es
+papel,503,Indoor,Indoor - Work and office,es
+paper,503,Indoor,Indoor - Work and office,en
+park,202,Nature,Nature - Vegetation&Animals,en
+parloteo,301,Human,Human - Speaking,es
+parque,202,Nature,Nature - Vegetation&Animals,es
+paseo,303,Human,Human - Walking,es
+pedo,301,Human,Human - Speaking,es
+pelea,202,Nature,Nature - Vegetation&Animals,es
+people,303,Human,Human - Walking,en
+percusi�n,400,Music,Music,es
+percussion,400,Music,Music,en
+percussive,400,Music,Music,en
+perforacion,602,Mechanical,Mechanical - Construction,es
+perforaci�n,602,Mechanical,Mechanical - Construction,es
+perro,202,Nature,Nature - Vegetation&Animals,es
+piano,400,Music,Music,en
+p�o,202,Nature,Nature - Vegetation&Animals,es
+pirotecnia,602,Mechanical,Mechanical - Construction,es
+pisada,303,Human,Human - Walking,es
+pisadas,303,Human,Human - Walking,es
+plane,400,Music,Music,en
+playa,201,Nature,Nature - Elements - Rain&Water,es
+playing,400,Music,Music,en
+puerta,501,Indoor,Indoor - Generic Indoor,es
+puertas,501,Indoor,Indoor - Generic Indoor,es
+race,101,Motorized transport,Motorized transport - Road,en
+radio,401,Music,Music - Radio,en
+rail,102,Motorized transport,Motorized transport - Rail,en
+railway,102,Motorized transport,Motorized transport - Rail,en
+rain,201,Nature,Nature - Elements - Rain&Water,en
+rana,202,Nature,Nature - Vegetation&Animals,es
+ranas,202,Nature,Nature - Vegetation&Animals,es
+recording,401,Music,Music - Radio,en
+reir,302,Human,Human - Speaking Children,es
+re�r,302,Human,Human - Speaking Children,es
+relampago,201,Nature,Nature - Elements - Rain&Water,es
+rel�mpago,201,Nature,Nature - Elements - Rain&Water,es
+reloj,601,Mechanical,Mechanical - Signaling,es
+resonance,400,Music,Music,en
+resonancia,400,Music,Music,es
+resonant,401,Music,Music - Radio,en
+resonante,401,Music,Music - Radio,es
+respiracion,301,Human,Human - Speaking,es
+respiraci�n,301,Human,Human - Speaking,es
+reverb,102,Motorized transport,Motorized transport - Rail,en
+rhythm,400,Music,Music,en
+rhythmic,400,Music,Music,en
+riendo,302,Human,Human - Speaking Children,es
+ring,601,Mechanical,Mechanical - Signaling,en
+ringing,601,Mechanical,Mechanical - Signaling,en
+rio,201,Nature,Nature - Elements - Rain&Water,es
+r�o,201,Nature,Nature - Elements - Rain&Water,es
+risa,302,Human,Human - Speaking Children,es
+ritmico,400,Music,Music,es
+r�tmico,400,Music,Music,es
+ritmo,400,Music,Music,es
+river,201,Nature,Nature - Elements - Rain&Water,en
+road,101,Motorized transport,Motorized transport - Road,en
+roar,202,Nature,Nature - Vegetation&Animals,en
+rugido,202,Nature,Nature - Vegetation&Animals,es
+running,303,Human,Human - Walking,en
+salpicon,201,Nature,Nature - Elements - Rain&Water,es
+salpic�n,201,Nature,Nature - Elements - Rain&Water,es
+sanitario,501,Indoor,Indoor - Generic Indoor,es
+sax,400,Music,Music,en
+saxo,400,Music,Music,es
+saxofon,400,Music,Music,es
+saxof�n,400,Music,Music,es
+saxophone,400,Music,Music,en
+school,302,Human,Human - Speaking Children,en
+scream,301,Human,Human - Speaking,en
+screaming,301,Human,Human - Speaking,en
+sea,201,Nature,Nature - Elements - Rain&Water,en
+shore,201,Nature,Nature - Elements - Rain&Water,en
+shout,301,Human,Human - Speaking,en
+shower,501,Indoor,Indoor - Generic Indoor,en
+silbar,400,Music,Music,es
+silbato,400,Music,Music,es
+sing,400,Music,Music,en
+singing,400,Music,Music,en
+sintetizador,400,Music,Music,es
+slam,503,Indoor,Indoor - Work and office,en
+sonar,400,Music,Music,es
+song,400,Music,Music,en
+sonido metalico,600,Mechanical,Mechanical - Industrial,es
+sonido met�lico,600,Mechanical,Mechanical - Industrial,es
+speak,301,Human,Human - Speaking,en
+speaking,301,Human,Human - Speaking,en
+speech,301,Human,Human - Speaking,en
+splash,201,Nature,Nature - Elements - Rain&Water,en
+spoken,301,Human,Human - Speaking,en
+storm,201,Nature,Nature - Elements - Rain&Water,en
+street,303,Human,Human - Walking,en
+subterraneo,102,Motorized transport,Motorized transport - Rail,es
+subterr�neo,102,Motorized transport,Motorized transport - Rail,es
+subway,102,Motorized transport,Motorized transport - Rail,en
+synth,400,Music,Music,en
+synthesizer,400,Music,Music,en
+taladro,602,Mechanical,Mechanical - Construction,es
+talk,301,Human,Human - Speaking,en
+talking,301,Human,Human - Speaking,en
+tambor,400,Music,Music,es
+tambores,400,Music,Music,es
+teclado,400,Music,Music,es
+thunder,201,Nature,Nature - Elements - Rain&Water,en
+thunderstorm,201,Nature,Nature - Elements - Rain&Water,en
+tintineo,601,Mechanical,Mechanical - Signaling,es
+toilet,501,Indoor,Indoor - Generic Indoor,en
+tools,600,Mechanical,Mechanical - Industrial,en
+tormenta,201,Nature,Nature - Elements - Rain&Water,es
+toser,301,Human,Human - Speaking,es
+traffic,101,Motorized transport,Motorized transport - Road,en
+trafico,101,Motorized transport,Motorized transport - Road,es
+tr�fico,101,Motorized transport,Motorized transport - Road,es
+train,102,Motorized transport,Motorized transport - Rail,en
+trees,202,Nature,Nature - Vegetation&Animals,en
+tren,102,Motorized transport,Motorized transport - Rail,es
+trompeta,400,Music,Music,es
+truck,101,Motorized transport,Motorized transport - Road,en
+trueno,201,Nature,Nature - Elements - Rain&Water,es
+trumpet,400,Music,Music,en
+tube,102,Motorized transport,Motorized transport - Rail,en
+underground,102,Motorized transport,Motorized transport - Rail,en
+vehicle,101,Motorized transport,Motorized transport - Road,en
+vehiculo,101,Motorized transport,Motorized transport - Road,es
+veh�culo,101,Motorized transport,Motorized transport - Road,es
+ventana,501,Indoor,Indoor - Generic Indoor,es
+via ferrea,102,Motorized transport,Motorized transport - Rail,es
+v�a f�rrea,102,Motorized transport,Motorized transport - Rail,es
+vidrio,501,Indoor,Indoor - Generic Indoor,es
+viento,201,Nature,Nature - Elements - Rain&Water,es
+viento madera,400,Music,Music,es
+violin,400,Music,Music,en
+viol�n,400,Music,Music,es
+violoncelo,400,Music,Music,es
+vocal,400,Music,Music,en
+vocals,400,Music,Music,en
+voces,301,Human,Human - Speaking,es
+voice,301,Human,Human - Speaking,en
+voices,301,Human,Human - Speaking,en
+voz,301,Human,Human - Speaking,es
+walk,303,Human,Human - Walking,en
+walking,303,Human,Human - Walking,en
+water,201,Nature,Nature - Elements - Rain&Water,en
+waves,201,Nature,Nature - Elements - Rain&Water,en
+whistle,400,Music,Music,en
+wind,201,Nature,Nature - Elements - Rain&Water,en
+window,501,Indoor,Indoor - Generic Indoor,en
+wood,202,Nature,Nature - Vegetation&Animals,en
+woods,202,Nature,Nature - Vegetation&Animals,en
+woodwind,400,Music,Music,en
+yell,301,Human,Human - Speaking,en
+yelling,301,Human,Human - Speaking,en

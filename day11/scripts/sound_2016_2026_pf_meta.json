@@ -1,0 +1,19 @@
+{
+  "db": "flickr_london.sqlite",
+  "start": "2016-01-01",
+  "end": "2026-12-31",
+  "label": "2016_2026_pf",
+  "min_tags": 5,
+  "z_population": "mapped",
+  "dedup_users": false,
+  "no_plot": true,
+  "buffer_mode": "bbox",
+  "types": "paper8",
+  "cc_only": false,
+  "half": "all",
+  "photos_used": 106740,
+  "segments_with_tags": 125013,
+  "mapped": 52745,
+  "mean_tags_per_segment": 13.919608360730484,
+  "assignments": 1040112
+}

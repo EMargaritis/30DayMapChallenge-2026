@@ -1,0 +1,5 @@
+flickr_key.txt
+flickr_london.sqlite
+*.osm.pbf
+segments_london.gpkg
+water_london.gpkg

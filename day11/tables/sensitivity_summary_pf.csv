@@ -1,0 +1,5 @@
+variant,photosA,photosB,mappedA,mappedB,common,flip,d_transport,d_nature,d_human,d_music,d_indoor,d_mechanical
+"baseline (bbox, 8 types)",145127,106740,61810,52745,35382,0.446,0.032,-0.016,0.043,-0.035,-0.017,-0.008
+z from segments with >=1 tag,145127,106740,61810,52745,35382,0.439,0.026,-0.01,0.054,-0.043,-0.018,-0.009
+one count per user per segment,145127,106740,46888,36836,26978,0.418,0.015,-0.015,0.009,-0.019,-0.004,0.014
+Creative Commons only,31198,12142,19245,8167,4646,0.38,0.091,-0.025,0.03,-0.052,-0.027,-0.017
